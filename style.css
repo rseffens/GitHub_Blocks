@@ -1,0 +1,38 @@
+.container {
+    width: 640px;
+    background-color: lightgray;
+    margin: 0px auto;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    color: darkslateblue;
+}
+img {
+    height: 200px;
+}
+.top {
+    display: flex;
+        background-color: lightblue;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.middle {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.bottom {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.p {
+    text-align: center;
+}
